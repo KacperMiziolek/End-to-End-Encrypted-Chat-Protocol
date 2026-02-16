@@ -76,9 +76,6 @@ Ensure you have a C++ compiler installed (e.g., G++, Clang, MSVC).
     # On Windows: .\secure_chat.exe
     ```
 
-## ⚠️ Disclaimer
-
-**EDUCATIONAL PURPOSES ONLY.** This software is a proof-of-concept implementation. It is **not constant-time** and has not been hardened against side-channel attacks (timing attacks, power analysis). Do not use this code to secure real-world sensitive data or in production environments.
 
 ## 📄 License
 
