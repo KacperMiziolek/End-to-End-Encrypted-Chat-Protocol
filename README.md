@@ -1,7 +1,7 @@
 # End-to-End Encrypted Chat Protocol (ECC Implementation)
 
 <p align="center">
-  <img src="dem" alt="ECC Chat Protocol Demo" width="800">
+  <img src="demo.gif" alt="ECC Chat Protocol Demo" width="800">
 </p>
 
 <p align="center">
