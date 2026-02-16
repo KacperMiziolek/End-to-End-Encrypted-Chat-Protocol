@@ -355,7 +355,7 @@ int main() {
     
     std::cout<<"Message, Signature and Encryption\n";
     std::cout<<std::endl;
-    std::cout<<"Input message from to B: \n";
+    std::cout<<"Input message: \n";
     std::getline(std::cin >> std::ws, message); 
     if(message=="") return -1;
     std::cout<<std::endl;
@@ -400,3 +400,4 @@ int main() {
 
     return 0;
 }
+
